@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-dvi74s.trans88.biz/sitemap.xml
